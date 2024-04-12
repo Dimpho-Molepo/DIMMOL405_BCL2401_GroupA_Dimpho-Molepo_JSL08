@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-In this project we write code that is uses a singleton pattern to define a class.A Singleton pattern ensures that a class has only one instance and provides a global point of access to it. For our banking system, let's use the Singleton pattern to manage the bank's branch information. Design patterns like Singleton, Factory, and Observer can significantly improve the structure and maintainability of your JavaScript projects, making your code cleaner and more efficient. By understanding and applying these patterns, you'll be well-equipped to tackle complex design challenges in your projects, just as a well-organized bank efficiently manages its operations and services.
+In this project, we write code that uses a singleton pattern to define a class. A Singleton pattern ensures that a class has only one instance and provides a global point of access to it. For our banking system, let's use the Singleton pattern to manage the bank's branch information. Design patterns like Singleton, Factory, and Observer can significantly improve the structure and maintainability of your JavaScript projects, making your code cleaner and more efficient. By understanding and applying these patterns, you'll be well-equipped to tackle complex design challenges in your projects, just as a well-organized bank efficiently manages its operations and services.
+
+![manager](https://github.com/Dimpho-Molepo/DIMMOL405_BCL2401_GroupA_Dimpho-Molepo_JSL08/assets/136012291/8a6b7407-ac42-4309-bef8-c7f3642c46bd)
 
 ## What You Need to Do:
 
